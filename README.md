@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there 👋, I code design
 
-<!--
-**iamutkarsh23/iamutkarsh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Utkarsh Patadia and welcome to the collection of my code. 
 
-Here are some ideas to get you started:
+### About Me 💬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :mortar_board: Studying Software Engineering at University of Victoria
+- :computer: Full Stack Developer at [Barnacle Systems](https://github.com/brnkl)
+- :runner: Lead Developer at [Digital Health Lab UVic](https://github.com/Digital-Health-Lab-UVic)
+- :construction: Working on a new project - [Ryden](https://github.com/ryden-team)
+
+### Reach Me 📫
+
+- :earth_americas: [utkarshpatadia.com](https://utkarshpatadia.com) <br>
+- :inbox_tray: mindutkarsh@gmail.com <br>
+- :necktie: [LinkedIn](https://www.linkedin.com/in/utkarsh-patadia-a291a7171/)
+
+[![HitCount](http://hits.dwyl.com/iamutkarsh23/iamutkarsh23.svg)](http://hits.dwyl.com/iamutkarsh23/iamutkarsh23)
+
