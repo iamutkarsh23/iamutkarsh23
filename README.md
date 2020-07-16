@@ -4,9 +4,9 @@
 <!-- [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
 <br>
 -->
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]()
+[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)]()
+[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)]()
 
 My name is Utkarsh Patadia and welcome to the collection of my code. 
 
