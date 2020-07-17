@@ -1,7 +1,8 @@
 ## Hi there 👋, I [code design](https://utkarshpatadia.com/#projects)
 
 <!--[![HitCount](http://hits.dwyl.com/iamutkarsh23/iamutkarsh23.svg)](http://hits.dwyl.com/iamutkarsh23/iamutkarsh23)--->
-<!-- [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
+![ViewCount](https://views.whatilearened.today/views/github/iamutkarsh23/iamutkarsh23.svg)
+[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
 <br>
 --->
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]()
