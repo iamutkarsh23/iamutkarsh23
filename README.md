@@ -12,8 +12,8 @@ My name is Utkarsh Patadia and welcome to the collection of my code.
 ### About Me 💬
 
 - :mortar_board: Studying Software Engineering at University of Victoria
-- :computer: Full Stack Developer at [Barnacle Systems](https://github.com/brnkl) 
 - :runner: Lead Developer at [Digital Health Lab UVic](https://github.com/Digital-Health-Lab-UVic) 
+- :computer: Ex-Full Stack Developer at [Barnacle Systems](https://github.com/brnkl) 
 - :construction: Working on a new project - [Ryden](https://github.com/ryden-team) 
 
 ### Development Tools 
