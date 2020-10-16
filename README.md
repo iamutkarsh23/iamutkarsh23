@@ -11,7 +11,7 @@ My name is Utkarsh Patadia and welcome to the collection of my code.
 
 ### About Me 💬
 
-- :mortar_board: 3rd year Computer Science at University of Victoria
+- :mortar_board: 3rd year Computer Science student at University of Victoria
 - :runner: Lead Developer at [Digital Health Lab UVic](https://github.com/Digital-Health-Lab-UVic) 
 - :computer: Ex-Full Stack Developer at [Barnacle Systems](https://github.com/brnkl) 
 - :construction: Working on a new project - [Ryden](https://github.com/ryden-team) 
