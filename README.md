@@ -1,4 +1,4 @@
-## Hi there 👋, I [code design](https://utkarshpatadia.com/#projects)
+## Hi there 👋, I [code design && design code](https://utkarshpatadia.com/#projects)
 
 <!--[![HitCount](http://hits.dwyl.com/iamutkarsh23/iamutkarsh23.svg)](http://hits.dwyl.com/iamutkarsh23/iamutkarsh23)--->
 <!--![ViewCount](https://views.whatilearened.today/views/github/iamutkarsh23/iamutkarsh23.svg)--->
