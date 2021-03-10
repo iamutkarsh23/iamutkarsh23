@@ -13,8 +13,8 @@ My name is Utkarsh Patadia and welcome to the collection of my code.
 
 - :mortar_board: 4th year Computer Science student at University of Victoria
 - :computer: Software Developer Intern at [Royal Bank of Canada](https://rbc.com)
-- :runner: Ex-Lead Developer at [Digital Health Lab UVic](https://github.com/Digital-Health-Lab-UVic) 
-- :computer: Ex-Full Stack Developer Intern at [Barnacle Systems](https://github.com/brnkl) 
+- :runner: Full Stack Developer at [Digital Health Lab UVic](https://github.com/Digital-Health-Lab-UVic) 
+- :computer: Ex-Full Stack Developer Intern at [Barnacle Systems](https://github.com/brnkl)
 - :construction: Working on a new project - [Ryden](https://github.com/ryden-team) 
 
 ### Development Tools 
