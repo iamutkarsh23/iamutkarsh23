@@ -34,4 +34,4 @@ My name is Utkarsh Patadia and welcome to the collection of my code.
 
 - :earth_americas: [utkarshpatadia.com](https://utkarshpatadia.com) <br>
 - :inbox_tray: mindutkarsh@gmail.com <br>
-- :necktie: [LinkedIn](https://www.linkedin.com/in/utkarsh-patadia-a291a7171/)
+- :necktie: [LinkedIn](https://www.linkedin.com/in/utkarshpatadia/)
