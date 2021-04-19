@@ -7,7 +7,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)]()
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)]()
 
-My name is Utkarsh Patadia and welcome to the collection of my code. 
+You're about to enter my collection of my code. 
 
 ### About Me 💬
 
