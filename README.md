@@ -7,7 +7,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)]()
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)]()
 
-You're about to enter my collection of my code. 
+You're about to enter the collection of my code. 
 
 ### About Me 💬
 
