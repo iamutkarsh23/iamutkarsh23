@@ -11,11 +11,8 @@ You're about to enter the collection of my code.
 
 ### About Me 💬
 
-- :mortar_board: 4th year Computer Science student at University of Victoria
-- :runner: Full Stack Developer at [Digital Health Lab UVic](https://github.com/Digital-Health-Lab-UVic) 
-- :computer: Ex-Software Developer Intern at [Royal Bank of Canada](https://rbc.com)
-- :computer: Ex-Full Stack Developer Intern at [Barnacle Systems](https://github.com/brnkl)
-- :construction: Working on a new project - [Ryden](https://github.com/ryden-team) 
+- 🖥️ Software Engineer @ Amazon
+- :mortar_board: Computer Science Grad from University of Victoria
 
 ### Development Tools 
  
